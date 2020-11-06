@@ -11,4 +11,10 @@
 		Average Point Calculation and Ranking for each Team.
 		Defense and Offensive Indicator for each Team.
 		Storable Notes for each team.
+		Anti-bugging out system.
+	- Order of Frames, by Files
+		1. Main.java
+		2. MainFrame.java
+		3. IndexFrame.java
+		4. Notes.java, Ranking.java, VisualFrame.java, DetailFrame.java (File depends on which button the user clicks)
 
